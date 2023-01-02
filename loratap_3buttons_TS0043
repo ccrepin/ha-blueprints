@@ -8,7 +8,7 @@ blueprint:
       description: LoraTap Tuya TS0043 3 button remote to use
       selector:
         device:
-          integration: deconz
+          integration: zha
           manufacturer: _TZ3000_bi6lpsew
           model: TS0043
     button_one_long_press:
