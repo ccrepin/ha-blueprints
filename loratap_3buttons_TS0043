@@ -1,6 +1,6 @@
 blueprint:
   name: deCONZ - LoraTap Tuya TS0043 3 button remote
-  description: LoraTap Tuya TS0043 3 button
+  description: Automate your LoraTap Tuya TS0043 3 button remote using deCONZ events.
   domain: automation
   input:
     loratap_tuya_ts0043:
